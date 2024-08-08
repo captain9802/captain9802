@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 소개
+안녕하세요! 저는 현재 취업 활동 중인 Junior 개발자 손우성입니다.
+Java와 SpirngBoot를 이용한 백엔드 개발과 React로 다양한 라이브러리를 활용한 프론트엔드 개발을 주로 하고있습니다.
 
-<!--
-**captain9802/captain9802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+함께할 프로젝트 팀원을 구하신다면 언제나 환영입니다 😊
 
-Here are some ideas to get you started:
+## 💻 주 사용 언어 및 경험 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 언어
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- YAML
+
+### IDE / Editor
+- Eclipse
+- IntelliJ IDEA
+- Visual Studio Code
+
+### Framework / Library
+#### Front
+- React
+- Thymeleaf
+- jQuery
+
+#### Back
+- SpringBoot
+- JWT
+
+### DB
+- MySQL
+- Oracle
+
+### OS
+- Ubuntu
+
+### Server
+- Apache Tomcat
+
+---
