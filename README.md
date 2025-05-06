@@ -1,58 +1,86 @@
-## 👋 소개
-안녕하세요! 저는 현재 취업 활동 중인 Junior 개발자 손우성입니다.  
-Java와 SpringBoot를 이용한 백엔드 개발과 React로 다양한 라이브러리를 활용한 프론트엔드 개발을 주로 하고 있습니다.
+<h1 align="center">🧑‍💻 손우성 | Junior Full-Stack Developer</h1>
 
-함께할 프로젝트 팀원을 구하신다면 언제나 환영입니다 😊
+<p align="center">
+  <strong>Spring Boot</strong>와 <strong>Laravel</strong>을 활용한 백엔드, <strong>React & Vue</strong> 기반의 프론트엔드 개발을 즐기는 웹 개발자입니다.  
+  사용자 경험을 중요하게 생각하며, 깔끔하고 직관적인 UI/UX 구현을 지향합니다.
+</p>
 
-## 💻 주 사용 언어 및 경험 스택
+<br/>
 
-### 언어
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=white)
+## 🛠️ Tech Stack
 
-### IDE / Editor
-- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white)
+### 💡 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+</p>
 
-### Framework / Library
-#### Front
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
-- ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-- ![Zustand](https://img.shields.io/badge/-Zustand-007ACC?logo=zustand&logoColor=white)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-- ![Framer-Motion](https://img.shields.io/badge/-Framer%20Motion-0085FF?logo=framer&logoColor=white)
-- ![Styled Component](https://img.shields.io/badge/-Styled%20Component-DB7093?logo=styled-components&logoColor=white)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-007ACC?style=flat-square&logo=zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0085FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+</p>
 
-#### Back
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=JSON%20web%20tokens&logoColor=white)
+### 🧩 Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+</p>
 
-### DB
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+### 🗄️ Database & Server
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</p>
 
-### OS
-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+### 🔧 Tools & IDE
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+</p>
 
-### Server
-- ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-
-### 협업 도구
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-- ![Pixso](https://img.shields.io/badge/-Pixso-FF5722?logo=pixso&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+### 🤝 Collaboration & Design
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pixso-FF5722?style=flat-square&logo=pixso&logoColor=white"/>
+</p>
 
 ---
 
-프론트엔드와 React를 활용한 다양한 프로젝트에 함께 참여하고 싶습니다.  
-언제든지 연락 부탁드립니다!
+## ✨ 함께 하고 싶은 일
+
+- 사용자 중심의 웹 서비스 개발
+- 프론트엔드 UI/UX 개선 및 애니메이션 구현
+- 백엔드 API 설계와 인증 시스템 개발
+- 일본어 학습 플랫폼 및 AI 기능 연구
+
+---
+
+## 📬 Contact
+
+**프로젝트 제안 / 협업 / 채용 제의는 언제든지 환영입니다!**
+
+📧 Email: _[이메일 주소 입력]_  
+🌐 Portfolio: [https://sws-portfolio.com](https://sws-portfolio.com)
+
+---
+
+> 꾸준히 성장하며 더 나은 사용자 경험을 만드는 개발자가 되겠습니다. 감사합니다!
