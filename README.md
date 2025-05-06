@@ -1,11 +1,27 @@
 <h1 align="center">🧑‍💻 손우성 | Junior Full-Stack Developer</h1>
 
 <p align="center">
-  <strong>Spring Boot</strong>와 <strong>Laravel</strong>을 활용한 백엔드, <strong>React & Vue</strong> 기반의 프론트엔드 개발을 즐기는 웹 개발자입니다.  
-  사용자 경험을 중요하게 생각하며, 깔끔하고 직관적인 UI/UX 구현을 지향합니다.
+  <strong>Spring Boot</strong>와 <strong>Laravel</strong> 기반의 백엔드,  
+  <strong>React</strong>와 <strong>Vue</strong>를 활용한 프론트엔드 개발을 즐기는 웹 개발자입니다.
 </p>
 
-<br/>
+---
+
+사용자의 입장에서 최적의 품질의 웹 서비스를 만들기 위해 꾸준히 테스트하며
+**기술적 효율성과 사용자 경험 사이의 균형**을 끊임없이 고민하고있습니다.
+
+프론트엔드와 백엔드 모두 경험하며,  
+더 나은 성능과 직관적인 UI/UX를 위해 반복적으로 개선중입니다.
+
+- React와 Vue 기반의 **인터랙티브한 화면 구성**  
+- Laravel, Spring Boot를 활용한 **RESTful API 개발**  
+- 이미지 최적화 및 **DB 인덱싱을 통한 응답 속도 개선**  
+- **JWT 인증**, **S3 파일 업로드** 등 실무에 가까운 기능 직접 구현을 하였습니다.
+
+> 기술은 도구일 뿐, **사용자에게 가치를 전달하는 것이 개발자의 본질**이라 믿습니다.  
+> 그래서 **디자인 감각과 개발 능력을 모두 겸비한 풀스택 개발자**로 성장하고자 합니다.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -70,7 +86,8 @@
 - 사용자 중심의 웹 서비스 개발
 - 프론트엔드 UI/UX 개선 및 애니메이션 구현
 - 백엔드 API 설계와 인증 시스템 개발
-- 일본어 학습 플랫폼 및 AI 기능 연구
+- 다양한 기술을 활용한 기능 구현
+- 학습 플랫폼 및 AI 기능 연구
 
 ---
 
@@ -78,7 +95,7 @@
 
 **프로젝트 제안 / 협업 / 채용 제의는 언제든지 환영입니다!**
 
-📧 Email: _[이메일 주소 입력]_  
+📧 Email: _[captain9802@gmail.com]_  
 🌐 Portfolio: [https://sws-portfolio.com](https://sws-portfolio.com)
 
 ---
